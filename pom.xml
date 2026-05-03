@@ -10,10 +10,10 @@
 	</parent>
 	<groupId>dev.bish</groupId>
 	<artifactId>library-crud</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name/>
-	<description/>
+	<name>library-crud</name>
+	<description>Library CRUD Application — Author and Book Management</description>
 	<url/>
 	<licenses>
 		<license/>

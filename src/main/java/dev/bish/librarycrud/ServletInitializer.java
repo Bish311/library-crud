@@ -1,4 +1,4 @@
-package dev.bish.library_crud;
+package dev.bish.librarycrud;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

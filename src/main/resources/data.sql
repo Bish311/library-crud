@@ -1,0 +1,21 @@
+INSERT INTO author (name, nationality) VALUES ('Bish', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bish2', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bish3', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bish4', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bish5', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bishwayan', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bishwayan2', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bishwayan3', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bishwayan4', 'Indian');
+INSERT INTO author (name, nationality) VALUES ('Bishwayan5', 'Indian');
+
+INSERT INTO book (title, genre, price, author_id) VALUES ('Java Guide by Bish', 'Programming', 29.99, 1);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Spring Boot by Bish2', 'Frameworks', 39.99, 2);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Hibernate by Bish3', 'Databases', 49.99, 3);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Microservices by Bish4', 'Architecture', 59.99, 4);
+INSERT INTO book (title, genre, price, author_id) VALUES ('System Design by Bish5', 'Engineering', 69.99, 5);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Web Dev by Bishwayan', 'Web Development', 79.99, 6);
+INSERT INTO book (title, genre, price, author_id) VALUES ('React by Bishwayan2', 'Frontend', 89.99, 7);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Angular by Bishwayan3', 'Frontend', 99.99, 8);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Vue by Bishwayan4', 'Frontend', 109.99, 9);
+INSERT INTO book (title, genre, price, author_id) VALUES ('Svelte by Bishwayan5', 'Frontend', 119.99, 10);
