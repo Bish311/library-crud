@@ -74,6 +74,10 @@ library-crud/
 ├── pom.xml
 ├── README.md
 ├── DESIGN.md
+├── SUBMISSION.md
+├── SUBMISSION.pdf
+├── screenshots/
+│   └── (Contains UI and DB documentation screenshots)
 ├── src/
 │   ├── main/
 │   │   ├── java/dev/bish/librarycrud/
